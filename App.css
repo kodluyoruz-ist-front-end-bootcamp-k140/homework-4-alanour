@@ -1,0 +1,63 @@
+.header .active {
+    color: indigo;
+    text-decoration: none;
+}
+
+.header {
+
+    flex-flow: column;
+    color: black;
+    align-items: center;
+    text-decoration: none;
+}
+
+.headerHome {
+    background-color: indigo;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 50px;
+    text-align: center;
+    color: aliceblue
+}
+
+.home3 {
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.homestyle {
+    align-items: center;
+    text-decoration: none;
+}
+
+.nav-link {
+    padding: 6px;
+    text-align: center;
+    font-weight: bold;
+    background-color: gainsboro;
+}
+
+.h1 {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 50px;
+    text-align: center;
+    color: indigo
+}
+
+.about {
+    text-align: center;
+    color: indigo
+}
+
+.c {
+    text-align: center;
+    color: indigo;
+    font-size: medium;
+    padding-top: 15px;
+
+
+}
